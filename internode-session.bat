@@ -5,7 +5,7 @@ Exchanger compatibility with Dollar Universe v5.
 Verify both machines are able to communicate with one another by running the command:
 PING <hostname>
 The v5 machine should be able to ping the v6 machine and vice-versa.
-
+3
 
 3.5.1.2 Configuration for v5 and v6 compatibility
 
